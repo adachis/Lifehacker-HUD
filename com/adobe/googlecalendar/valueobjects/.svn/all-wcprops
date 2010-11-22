@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects
+END
+GoogleCalendarEventVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/GoogleCalendarEventVO.as
+END
+ContentVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/ContentVO.as
+END
+WhereVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/WhereVO.as
+END
+CategoryVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/CategoryVO.as
+END
+UserVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/UserVO.as
+END
+EntryLinkVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/EntryLinkVO.as
+END
+FeedLinkVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/FeedLinkVO.as
+END
+TitleVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/TitleVO.as
+END
+CommentsVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/CommentsVO.as
+END
+LinkVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/LinkVO.as
+END
+SummaryVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/SummaryVO.as
+END
+WhoVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/WhoVO.as
+END
+WhenVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/WhenVO.as
+END
+AuthorVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/AuthorVO.as
+END
+GoogleCalendarUserVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/GoogleCalendarUserVO.as
+END
+ReminderVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/ReminderVO.as
+END
+GoogleCalendarVO.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/valueobjects/GoogleCalendarVO.as
+END

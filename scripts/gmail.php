@@ -1,0 +1,5 @@
+<?php
+
+require('libgmailer.php');
+
+?>

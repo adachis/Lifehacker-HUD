@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/services
+END
+AbstractCalendarService.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/services/AbstractCalendarService.as
+END
+GoogleCalendarAuthenticator.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/services/GoogleCalendarAuthenticator.as
+END
+GoogleCalendarEventUtil.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/services/GoogleCalendarEventUtil.as
+END
+GoogleCalendarService.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/services/GoogleCalendarService.as
+END
+GoogleCalendarEventsService.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/src/com/adobe/googlecalendar/services/GoogleCalendarEventsService.as
+END
